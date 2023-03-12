@@ -1,0 +1,6 @@
+[submodule "solana-solclan-app"]
+	path = solana-solclan-app
+	url = git@github.com:brolab-io/solana-solclan-app.git
+[submodule "solana-solclan-program"]
+	path = solana-solclan-program
+	url = git@github.com:brolab-io/solana-solclan-program.git
