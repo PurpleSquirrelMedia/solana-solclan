@@ -33,3 +33,16 @@ The auto-vesting function allows investors to automatically vest their tokens ov
 ## SolClan Vision
 
 SolClan's vision is to become the largest Investment DAO in the Web3 space, bringing over 1,000,000 users to invest in Web3. By providing a community-driven approach to investing, SolClan is paving the way for a new era of investment in Web3.
+
+## Demo Video
+
+[![SolClan mobile app](https://img.youtube.com/vi/Nqa8U21h1E0/0.jpg)](https://www.youtube.com/watch?v=Nqa8U21h1E0)
+
+## Implemented Features
+
+- [x] Create Clan
+- [x] Join Clan
+- [x] Create Proposal
+- [x] Vote on Proposal
+- [x] Execute Proposal
+- [x] Claim vault
